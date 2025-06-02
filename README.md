@@ -1,2 +1,2 @@
-# PicgoRepo
-Private repo for picgo
+# RepoForMyself
+Private repo for myself
